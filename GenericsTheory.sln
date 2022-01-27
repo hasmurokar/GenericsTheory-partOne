@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsTheory", "GenericsTheory.csproj", "{A97CC1C5-03DD-49FE-B772-735AC9CDDD21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97CC1C5-03DD-49FE-B772-735AC9CDDD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97CC1C5-03DD-49FE-B772-735AC9CDDD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97CC1C5-03DD-49FE-B772-735AC9CDDD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97CC1C5-03DD-49FE-B772-735AC9CDDD21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD346FC6-3670-424E-90DD-66A7E013F657}
+	EndGlobalSection
+EndGlobal
